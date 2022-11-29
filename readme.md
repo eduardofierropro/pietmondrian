@@ -2,7 +2,7 @@
 
 # Explicación: Pietmondrian y el desarrollo web
 
-Esto es sólo un pequeño ejemplo que he maquetado para la expliación del vídeo de Youtube:[https://www.youtube.com/watch?v=1hDGvWJXzqM](https://www.youtube.com/watch?v=1hDGvWJXzqM)
+Este es el código donde uso CSS Grid para demostrar la importancia tanto de la semántica como de la forma de maquetar basada en la vida de Piet Mondrian.
 
 Si te ha gustado o te ha servido este código coméntalo en un directo, sígueme por Twitch o Youtube 😊
 
