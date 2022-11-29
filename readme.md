@@ -15,7 +15,6 @@ Si te ha gustado o te ha servido este código coméntalo en un directo, sígueme
 
 ![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
-![JS](https://img.shields.io/static/v1?label=&message=js&color=yellow&logo=javascript&logoColor=white&style=for-the-badge)
 
 > Aclaraciones:
 >
